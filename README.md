@@ -1,4 +1,4 @@
-# simple-steam-idler-replit
+# simple-steam-idler-replit [ELDEN RING]
 24/7 Steam ingame time idler with Replit (simple version)
 
 1. Register at https://replit.com/
